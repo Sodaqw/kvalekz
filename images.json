@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "title": "Закат в горах",
+    "category": "Природа",
+    "rating": 4.8,
+    "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+  },
+  {
+    "id": 2,
+    "title": "Ночной мост",
+    "category": "Города",
+    "rating": 4.5,
+    "url": "https://images.unsplash.com/photo-1612133343699-9158db10230d?q=80&w=760&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 3,
+    "title": "Тайный лес",
+    "category": "Природа",
+    "rating": 4.9,
+    "url": "https://images.unsplash.com/photo-1448375240586-882707db888b"
+  },
+  {
+    "id": 4,
+    "title": "Манхэттен",
+    "category": "Города",
+    "rating": 4.3,
+    "url": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df"
+  },
+  {
+    "id": 5,
+    "title": "Бирюзовый океан",
+    "category": "Природа",
+    "rating": 4.7,
+    "url": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0"
+  },
+  {
+    "id": 6,
+    "title": "Центральный парк",
+    "category": "Города",
+    "rating": 4.1,
+    "url": "https://plus.unsplash.com/premium_photo-1697730064923-dd664fc81d19?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 7,
+    "title": "Альпийские вершины",
+    "category": "Природа",
+    "rating": 5.0,
+    "url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b"
+  },
+  {
+    "id": 8,
+    "title": "Старый город",
+    "category": "Города",
+    "rating": 4.0,
+    "url": "https://plus.unsplash.com/premium_photo-1661909918862-403588a10c0b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 9,
+    "title": "Пустыня",
+    "category": "Природа",
+    "rating": 4.2,
+    "url": "https://images.unsplash.com/photo-1542401886-65d6c61db217?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 10,
+    "title": "Неоновый квартал",
+    "category": "Города",
+    "rating": 4.6,
+    "url": "https://images.unsplash.com/photo-1635552322112-0194846b0d75?q=80&w=683&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 11,
+    "title": "Водопад",
+    "category": "Природа",
+    "rating": 4.9,
+    "url": "https://images.unsplash.com/photo-1482685945432-29a7abf2f466?q=80&w=1489&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 12,
+    "title": "Метрополитен",
+    "category": "Города",
+    "rating": 3.9,
+    "url": "https://images.unsplash.com/photo-1530435622277-39544076a5f8?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 13,
+    "title": "Северное сияние",
+    "category": "Природа",
+    "rating": 5.0,
+    "url": "https://plus.unsplash.com/premium_photo-1675805015876-7b3da77851ad?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 14,
+    "title": "Набережная",
+    "category": "Города",
+    "rating": 4.4,
+    "url": "https://images.unsplash.com/photo-1498307833015-e7b400441eb8"
+  },
+  {
+    "id": 15,
+    "title": "Бамбуковый лес",
+    "category": "Природа",
+    "rating": 4.7,
+    "url": "https://images.unsplash.com/photo-1531021713651-fdd4ac075ac1?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "id": 16,
+    "title": "Горное озеро",
+    "category": "Природа",
+    "rating": 4.9,
+    "url": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+  }
+]

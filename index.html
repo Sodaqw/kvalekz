@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фотогалерея | Современный дизайн</title>
+    <link rel="stylesheet" href="/styles/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header class="app-header">
+            <div class="header-content">
+                <h1>
+                    <i class="fas fa-camera-retro"></i>
+                    <span>Фотогалерея</span>
+                </h1>
+                <div class="header-actions">
+                    <div class="stats">
+                        <div class="stat-item">
+                            <i class="fas fa-images"></i>
+                            <span id="total-count">0</span>
+                        </div>
+                        <div class="stat-item">
+                            <i class="fas fa-star"></i>
+                            <span id="avg-rating">0.0</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <div class="control-panel">
+            <div class="search-section">
+                <div class="search-box">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="search" placeholder="Поиск изображений...">
+                    <button class="search-btn" id="apply-filters">
+                        <i class="fas fa-filter"></i>
+                        Применить
+                    </button>
+                </div>
+            </div>
+
+            <div class="filter-section">
+                <div class="filter-group">
+                    <label for="category"><i class="fas fa-tags"></i> Категория</label>
+                    <select id="category">
+                        <option value="">Все категории</option>
+                    </select>
+                </div>
+
+                <div class="sort-group">
+                    <label><i class="fas fa-sort"></i> Сортировка</label>
+                    <div class="sort-options">
+                        <button id="sort-rating" class="sort-btn active">
+                            <span>По рейтингу</span>
+                            <i class="fas fa-arrow-down" id="sort-direction"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="gallery" class="gallery"></div>
+    </div>
+
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 class="modal-title" id="modal-title"></h2>
+            
+            <div class="modal-rating" id="modal-rating"></div>
+            
+            <img id="modal-image" src="." alt="">
+            
+            <div class="modal-info">
+                <p>Категория: <span id="modal-category"></span></p>
+                <p>URL: <a id="modal-url" href="" target="_blank" class="modal-url">Открыть оригинал <i class="fas fa-external-link-alt"></i></a></p>
+            </div>
+        </div>
+    </div>
+
+    <script src="/js/scripts.js"></script>
+</body>
+</html>
